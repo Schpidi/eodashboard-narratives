@@ -4,10 +4,26 @@ date: 2025-01-01
 theme: biomass
 tags: forest,carbon
 official: true
+collections: nceo_africa_2017, RECCAP2_6_deforested_biomass, RECCAP2_7_degraded_biomass, RECCAP2_8_edge_biomass_change, RECCAP2_1_AGC_LVOD_amazonia_methods_mean_crop, RECCAP2_9_intact_biomass_change_methods_mean, RECCAP2_5_SF_biomass_growth, FNF_Palsar, E10e_ndvi, ESDC_kndvi, ESDC_net_ecosystem_exchange
 ---
 
 #   A view from space monitors land cover and tree to track aboveground biomass and carbon content <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/Biomass.jpeg" }-->
 ### Read more about taking stock of global biomass maps <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
 
 #   The Biomass Harmonization Activity
 

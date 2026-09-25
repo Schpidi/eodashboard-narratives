@@ -4,9 +4,25 @@ date: 2025-01-01
 theme: economy
 tags: light,night,lockdown
 official: true
+collections: NTLU_nightlights_urban, NTLR_nightlights_rural, N5_nightlights, CV_Covid_19_cases
 ---
 
 # Observing Nighlights from Space<!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/Nightlights/nightlights_hero.jpeg" }-->
+
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
 
 ## Observing Nighlights from Space
 
@@ -44,7 +60,7 @@ To produce the new dataset, the daily nighttime satellite data (Suomi NPP/VIIRS 
 #### NTLU (Nighttime Light Urban)
 The **NTLU** provides a comprehensive global spatial representation of nighttime light levels in urban areas. It is derived from satellite observations from the Suomi NPP satellite. This dataset is valuable for studying the **distribution of artificial lighting in urban regions**, offering insights into urban growth, infrastructure development, and socio-economic activity. 
 <figure style="text-align: center;">
-    <img src="https://eospso.nasa.gov/sites/default/files/sat/Suomi-NPP.jpg" 
+    <img src="https://science.nasa.gov/wp-content/uploads/2023/06/img-press-140106-suomi-npp-jpg.webp" 
          alt=" Sea ice concentration in May 2023. " 
          style="display: block; margin: 0 auto;"
          width="500">

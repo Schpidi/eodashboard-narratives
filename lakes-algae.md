@@ -4,20 +4,35 @@ date: 2025-01-01
 theme: oceans
 tags: algae,lakes,water
 official: true
+collections: Lakes_SWT_surface_water_temperature, NLK_lakes
 ---
 
 #   Algal blooms in lake waters <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/Cambodian_rivers.jpg" }-->
 ### Read more about observing the increases in algal blooms with ESA, NASA and JAXA satellites <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
+
 ## Lake Vänern
 
 <center>
-	<figure>
-		<img src="
-							https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Eodashboard_lakevanern_2307112.png?raw=true" width="50%">
-		</figure>
-	</center>
-	
+  <figure>
+    <img src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Eodashboard_lakevanern_2307112.png" width="50%"/>
+  </figure>
+</center>
+
 Algal blooms in lake waters are frequently associated with elevated nutrient levels, in particular phosphorus and nitrogen [1]. These nutrients can enter waterways from point sources such as agriculture or industrial and wastewater treatment plants discharge. Runoff from urban and farmland areas from nutrient-enriched rainfall are additional sources. When there is an overabundance of these nutrients in a lake, eutrophication occurs. Excess of nutrients can cause algal blooms, which can lead to a tipping point where the algae consume oxygen and block sunlight for underwater plants.
 
 Excess nitrogen input from agricultural practices is often the main cause of increased algae growth. However, for Lake Vänern, the largest lake in Sweden and the third-largest lake in Europe, changes in water temperature have been identified as the biggest contributor to the growth of algae [2, 3], together with changes in precipitation patterns [4,5] and lake ice cover, particularly during the warm and dry seasons.
@@ -42,18 +57,17 @@ Moreover, the intense algae or cyanobacteria blooms have impacted drinking water
 The water quality of Lake Biwa, the largest freshwater lake in Japan, northeast of Kyoto, and its related rivers is improving due to the reduction of inflow pollution load. This lake supplies city and industrial water for 13 million residents in the surrounding megalopolis [1,2]. However, despite improvements resulting from inflow pollution, climate change is still affecting Lake Biwa, and ecosystem issues such as the decrease in native fish and shellfish are becoming apparent.
 
 <center>
-	<figure>
-		<img src="
-							https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Eodashboard_lakebiwa_2307112.png?raw=true" width="50%">
-		</figure>
-	</center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Eodashboard_lakebiwa_2307112.png" width="50%"/>
+  </figure>
+</center>
 
 One of the reasons for this is the direct impact of the increase in alien species and the deterioration of their habitats, as well as changes in the nutrient balance and plankton species composition due to various environmental changes, including climate change. It has also been pointed out that changes in the ecosystem balance of Lake Biwa may affect living things through the food chain. In recent years, it has been observed that the ‘overturn’(1) in Lake Biwa has not been completed and that the oxygen-poor state in the deep-water layer of Lake Biwa has been prolonged because of climate change. The water temperature of Lake Biwa (annual surface layer average) is rising as shown in the following figure.
 
 
 <center>
 	<figure>
-		<img src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Inland_lakes_water_temp_Biwa.jpg?raw=true">
+		<img src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Inland_lakes_water_temp_Biwa.jpg">
 		<figcaption>Average water temperature change in Lake Biwa, CC SEndo Kouta: http://endoh7735.sakura.ne.jp/biwako/warming.htm</figcaption>
 		</figure>
 	</center>
@@ -90,12 +104,12 @@ A study using the Second Global Imager (SGLI) on board the Global Change Observa
 
 <figure style="text-align:center;">
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Inland_lakes_chl_concentration_biwa.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Inland_lakes_chl_concentration_biwa.png"
     alt="Lake Biwa chlorophyll-a concentration maps, May and November 2018-2021"
     style="max-width:100%; height:auto; display:block; margin:0 auto;"
   >
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Inland_lakes_chl_concentration_biwa_legend.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Inland_lakes_chl_concentration_biwa_legend.png"
     alt="Legend for Lake Biwa chlorophyll-a maps"
     style="max-width:100%; height:auto; display:block; margin:0.5em auto 0;"
   >
@@ -108,7 +122,7 @@ Looking at the distribution of Chl-a concentrations in Lake Biwa throughout 2019
 
 <figure style="text-align:center;">
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Inland_lakes_monthly_chl_concentration_2019.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Inland_lakes_monthly_chl_concentration_2019.png"
     alt="Monthly chlorophyll-a concentration in 2019"
     style="max-width:100%; height:auto; display:block; margin:0 auto;"
   >
